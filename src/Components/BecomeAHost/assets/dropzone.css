@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(174, 198, 199);
+    max-width: '300px';
+    border-radius: 5px;
+    overflow: 'hidden';
+}
+.paragraph{
+    font-weight: bold;
+}
+.accepted{
+    font-weight: bold;
+}
+.rejected{
+    font-weight: bold;
+}

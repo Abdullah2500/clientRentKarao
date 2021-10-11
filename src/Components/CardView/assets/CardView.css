@@ -1,0 +1,8 @@
+.parentClass{
+    padding: 50px;
+    background-color: cadetblue;
+}
+.imageClass{
+    border-radius: 10px;
+    border-style:outset;
+}

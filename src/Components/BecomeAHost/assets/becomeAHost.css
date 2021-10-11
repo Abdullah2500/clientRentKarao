@@ -1,0 +1,15 @@
+.host{
+    background-image: url('./login1.jpg');
+    background-size: cover;
+    padding: 4%;
+}
+.hostCard{
+    background-image: url('./login1.jpg');
+    background-size: cover;
+   font-weight: bold;
+   border-radius: 10px;
+   
+}
+.selectClass{
+    text-align: center;
+  }

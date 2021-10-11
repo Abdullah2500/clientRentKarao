@@ -1,0 +1,68 @@
+/* 
+.worksBlockCheckInOut{
+    background: url('CheckInOut.jpg') no-repeat; 
+    background-position: 50% 0;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    position: relative;
+  }
+  .worksBlockCheckInOut:before{
+    content: '';
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  .worksBlockCheckInOut h2{
+    color: #fff;
+  } */
+  .titleHolderofSearch {
+    text-align: center;
+    position: relative;
+    padding: 0 0 12px;
+    margin: 0 0 18px;
+  }
+  
+  .titleHolderofSearch:after {
+    transform: translateX(-50%);
+    content: '';
+    background: #1890ff;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    height: 3px;
+    width: 50px;
+  }
+  
+  .titleHolderofSearch h2 {
+    font-size: 20px;
+    margin: 0;
+  }
+  .selectClass{
+    text-align: center;
+  }
+  .titleHolderof {
+    text-align: center;
+    position: relative;
+    padding: 0 0 12px;
+    margin: 0 0 18px;
+  }
+  
+  .titleHolderof:after {
+    transform: translateX(-50%);
+    content: '';
+    background: #1890ff;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    height: 3px;
+    width: 50px;
+  }
+  
+  .titleHolderof h2{
+    font-size: 24px;
+    margin: 0; 
+  }

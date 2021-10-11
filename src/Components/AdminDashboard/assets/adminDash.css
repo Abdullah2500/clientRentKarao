@@ -1,0 +1,47 @@
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.2);
+  }
+  
+  .site-layout-sub-header-background {
+    background: #fff;
+  }
+  
+  .site-layout-background {
+    background: #fff;
+  }
+  .avatar{
+    padding: 0px;
+    align-items: center;
+    margin: auto;
+    border: 3px solid blue;
+  }
+  .menuClass{
+    background-color: rgb(245, 241, 241);
+}
+.titleHolderadmin {
+  text-align: center;
+  position: relative;
+  padding: 0 0 20px;
+  margin: 0 0 40px;
+}
+
+.titleHolderadmin:after {
+  transform: translateX(-50%);
+  content: '';
+  background: #1890ff;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 3px;
+  width: 50px;
+}
+.titleHolderadmin h2 {
+  font-size: 28px;
+  margin: 0;
+}
+.imageClass{
+  border-radius: 10px;
+  border-style:outset;
+}

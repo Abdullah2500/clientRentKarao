@@ -1,0 +1,40 @@
+.signupForm{
+    background-image: url('./login1.jpg');
+    background-size: cover;
+    padding: 8%;
+}
+.signupCard{
+    background-image: url('./login1.jpg');
+    background-size: cover;
+    font-weight: bold;
+  border-radius:10px;
+}
+.buttonFacebook{
+  border-radius: 4px;
+  background: #3b5998;
+  color:white;
+  border:0px transparent;  
+  display: inline-block;
+}
+.buttonGoogle{
+  border-radius: 4px;
+  background: #db3236;
+  color:white;
+  border:0px transparent;
+}
+.buttonFacebook:hover {
+  background: #3b5998;
+  opacity: 0.6;
+}
+.buttonGoogle:hover {
+  background: #db3236;
+  opacity: 0.6;
+}
+.login-form-button{
+  border-radius: 4px;
+  border:0px transparent;  
+  display: inline-block;
+}
+.login-form-button:hover {
+  opacity: 0.6;
+}
